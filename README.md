@@ -8,7 +8,7 @@ Sou um Front End Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rural Smart**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :blush: &nbsp; Posso te ajudar com CSS e Bootstrap
  <br/> :computer: &nbsp; Minha stack: Angular, Node.js, Ionic & Typescript
  <br/> :books: &nbsp; Estudando ReactJS, React Native e NextJS
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Fifa e seriados no Netflix
