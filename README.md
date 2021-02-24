@@ -10,6 +10,7 @@ Sou um Front End Developer :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: Angular, Node.js, Ionic & Typescript
+ <br/> :books: &nbsp; Estudando ReactJS, React Native e NextJS
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Fifa e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarceloTadini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/marcelotadini/) 
 | 
