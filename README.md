@@ -27,19 +27,19 @@ Sou um Front End Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tadini.marcelo53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tadini.marcelo53@gmail.com)](mailto:tadini.marcelo53@gmail.com)
 
-# Lançamentos do Youtube
+## Lançamentos do Youtube :film_projector:
 <!-- YOUTUBE:START -->
 - [Projeto Ecoleta](https://www.youtube.com/watch?v=ckj8Q_eOHs0)
 - [Sensor de estacionamento - Arduíno Uno](https://www.youtube.com/watch?v=F_4yFehTn2k)
 <!-- YOUTUBE:END -->
 
-## Github Stats
+## Github Stats :medal_sports:
 [![Maarcelo Tadini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloTadini&hide=contribs,issues&show_icons=true&theme=radical)
 ](https://github.com/MarceloTadini/MarceloTadini)
 
-## Top Langs
+## Top Langs :dart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloTadini&layout=compact&show_icons=true&theme=radical)](https://github.com/MarceloTadini/MarceloTadini)
 
-## Card do Perfil
+## Card do Perfil :card_index_dividers:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloTadini&repo=MarceloTadini&theme=radical&show_owner=true)](https://github.com/MarceloTadini/MarceloTadini)
 
