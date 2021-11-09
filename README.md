@@ -23,7 +23,7 @@ Sou um Front End Developer :computer:
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
  <br/> :books: &nbsp; Estudando JavaScript e ReactJs
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Fifa e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Marcelo Tadini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/marcelotadini/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarceloTadini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/marcelotadini/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tadini.marcelo53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tadini.marcelo53@gmail.com)](mailto:tadini.marcelo53@gmail.com)
 
