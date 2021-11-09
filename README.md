@@ -17,3 +17,4 @@ Sou um Front End Developer :computer:
 [![Gmail Badge](https://img.shields.io/badge/-tadini.marcelo53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tadini.marcelo53@gmail.com)](mailto:tadini.marcelo53@gmail.com)
 
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
