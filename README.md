@@ -18,4 +18,4 @@ Sou um Front End Developer :computer:
 
 ## Github Stats
 [![Maarcelo Tadini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloTadini&hide=contribs,issues)
-)](https://github.com/MarceloTadini/MarceloTadini)
+](https://github.com/MarceloTadini/MarceloTadini)
