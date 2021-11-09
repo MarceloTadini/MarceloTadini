@@ -29,6 +29,8 @@ Sou um Front End Developer :computer:
 
 # Blog posts
 <!-- YOUTUBE:START -->
+- [Projeto Ecoleta](https://www.youtube.com/watch?v=ckj8Q_eOHs0)
+- [Sensor de estacionamento - Arduíno Uno](https://www.youtube.com/watch?v=F_4yFehTn2k)
 <!-- YOUTUBE:END -->
 
 ## Github Stats
