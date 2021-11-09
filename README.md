@@ -27,7 +27,7 @@ Sou um Front End Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tadini.marcelo53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tadini.marcelo53@gmail.com)](mailto:tadini.marcelo53@gmail.com)
 
-# Blog posts
+# Lançamentos do Youtube
 <!-- YOUTUBE:START -->
 - [Projeto Ecoleta](https://www.youtube.com/watch?v=ckj8Q_eOHs0)
 - [Sensor de estacionamento - Arduíno Uno](https://www.youtube.com/watch?v=F_4yFehTn2k)
