@@ -17,5 +17,10 @@ Sou um Front End Developer :computer:
 [![Gmail Badge](https://img.shields.io/badge/-tadini.marcelo53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tadini.marcelo53@gmail.com)](mailto:tadini.marcelo53@gmail.com)
 
 ## Github Stats
-[![Maarcelo Tadini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloTadini&hide=contribs,issues)
+[![Maarcelo Tadini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloTadini&hide=contribs,issues&show_icons=true&theme=radical)
 ](https://github.com/MarceloTadini/MarceloTadini)
+
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloTadini&layout=compact)](https://github.com/MarceloTadini/MarceloTadini)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloTadini&repo=MarceloTadini)](https://github.com/MarceloTadini/MarceloTadini)
