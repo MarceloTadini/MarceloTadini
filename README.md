@@ -40,6 +40,4 @@ Sou um Front End Developer :computer:
 ## Top Langs :dart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloTadini&layout=compact&show_icons=true&theme=radical)](https://github.com/MarceloTadini/MarceloTadini)
 
-## Card do Perfil :card_index_dividers:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloTadini&repo=MarceloTadini&theme=radical&show_owner=true)](https://github.com/MarceloTadini/MarceloTadini)
 
