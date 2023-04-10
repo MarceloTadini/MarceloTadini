@@ -4,10 +4,10 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Front End Developer :computer:
+Sou um Full Stack Developer :computer:
 
  :rocket:  &nbsp; Por enquanto não estou trabalhando, apenas focado na faculdade e nos estudos!
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React!
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando NodeJs!
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML e Bootstrap!
  <br/> :computer: &nbsp; Minha stack: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
