@@ -6,7 +6,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Full Stack Developer :computer:
 
- :rocket:  &nbsp; Por enquanto estou trabalhando na SIGA auto, uma empresa de soluções digitais para o setor automotivo, onde utilizo as seguintes tecnologias: Linux, Docker, PHP, MySQL, Laravel.
+ :rocket:  &nbsp; Por enquanto estou trabalhando na Algar Telecom, uma empresa de soluções TIC, onde utilizo as seguintes tecnologias: Linux, Docker, NodeJS, MySQL, JavaScript.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Full Stack usando React e Back-end usando NodeJs/PHP!
  <br/> :computer: &nbsp; Minha stack: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
